@@ -1,0 +1,2 @@
+# premium-cello-bridge-001-cello-bridge-carving-string
+Stop guessing and sanding blindly — your bridge's arc and string heights are too critical for trial and error. The Cello Bridge Carving &amp; String Height Craft Lab gives you a structured, repeatable system to plan, measure, and document every micron of your bridge work inside Notion.  Bridge carving is both art and engineering, and this Notion templa
